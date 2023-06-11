@@ -144,8 +144,9 @@ MainActivity2.class);
    }
 }
 ```
-## PROGRAM:
+## MainActivity2.java:
 ```
+MainActivity2.java:
 package com.example.factorialexplicit;
 import static com.example.factorialexplicit.R.id.factorialTextView;
 import androidx.appcompat.app.AppCompatActivity;
